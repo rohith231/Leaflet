@@ -1,0 +1,14 @@
+body {
+  --twitter-color: #50b7f5;
+  --twitter-background:aqua;
+}
+
+
+
+.map__text {
+  height: 1000px;
+  width: 100%;
+}
+.map__left{
+left: auto;
+}

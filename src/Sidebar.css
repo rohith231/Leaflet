@@ -1,0 +1,43 @@
+.sidebar {
+  border-right: 0px solid var(--twitter-background);
+  border-left: 0px;
+  background-color: whitesmoke;
+  flex: 0.2;
+  /* min-width: 250px; */
+  margin-top: 0px;
+ 
+  padding-left: 0px;
+  padding-right: 15px;
+}
+
+.sidebar__flightTakeoffIcon {
+  color: var(--twitter-color);
+  font-size: 50px !important;
+
+}
+.sidebar__text{
+color:#0000ff;
+font-size: 30px;
+border-radius: 30px;
+text-decoration: chocolate;
+text-decoration-color: chocolate;
+text-transform: inherit;
+height:150px;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.MuiButtonBase-root{
+  width:13% !important;
+}
+
+
+.sidebar__tweet {
+  background-color: var(--twitter-color) !important;
+  border: none !important;
+  color:black !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  height: 50px !important;
+  margin-top: 20px !important;
+}
